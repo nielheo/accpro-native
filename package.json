@@ -10,6 +10,7 @@
   "dependencies": {
     "@expo/samples": "^3.0.1",
     "apollo-boost": "^0.4.2",
+    "braces": "^3.0.2",
     "clsx": "^1.0.4",
     "expo": "^33.0.0",
     "graphql": "^14.3.1",
